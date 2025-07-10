@@ -1,0 +1,22 @@
+settings:
+  width: 132
+  height: 24
+  title: starfetch_summer_triangle
+  type-speed: 150ms
+  timeout: 90s
+
+instructions:
+  - !Marker Get summer_triangle.json
+  - !Wait 1s
+  - !Command
+    command: "wget -O res/constellations/summer_triangle.json https://gist.githubusercontent.com/scillidan/773260fba75a1bfc9b203c445d371b55/raw/1b769319bc7395f62364fc5811ef652cb4b7e257/summer_triangle(Haruno19_starfetch).json"
+  - !Wait 2s
+  - !Command
+    command: "# sudo make install"
+  - !Wait 2s
+  - !Clear
+
+  - !Marker Usage
+  - !Command
+    command: "starfetch -n summer_triangle"
+  - !Wait 3s

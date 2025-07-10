@@ -1,0 +1,22 @@
+settings:
+  width: 151
+  height: 36
+  title: yt-dlp
+  shell:
+    program: pwsh
+    prompt: "PS "
+    line_split: ' \'
+    quit_command: exit
+  type-speed: 150ms
+  timeout: 90s
+
+instructions:
+  # Record on pwsh
+  - !Wait 1s
+  - !Command
+    command: "yt-dlp -F https://www.youtube.com/watch?v=LZ2kSbSrDLs"
+  - !Wait 2s
+  - !Clear
+  - !Command
+    command: "# yt-dlp -f bestvideo+bestaudio https://www.youtube.com/watch?v=LZ2kSbSrDLs"
+  - !Wait 1s
