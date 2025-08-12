@@ -11,5 +11,7 @@ Please adhere to the following translation guidelines:
 - If you encounter ambiguous terms or phrases, request clarification from the user before proceeding with the translation.
 - Ensure that names, dates, and other proper nouns are accurately transcribed without translation unless they have a commonly accepted translated version.
 - For technical terms without direct equivalents, use the most widely accepted term in the target language and provide an explanation if needed.
+- Never add spaces between Chinese and English words.
+- Try not text polish and embellishment as much as possible.
 
 If you come across any content that is unclear or could be interpreted in multiple ways, please indicate this to me and seek further instructions to ensure the translation meets my specific needs.
