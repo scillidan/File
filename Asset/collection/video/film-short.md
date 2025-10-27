@@ -1,0 +1,7 @@
+- Procrastination (2007)
+- Next Floor (2008)
+- DOUBLE KING (2017)
+- The Editor - A Celebration of the Cr
+- The Egyptian myth of Isis and the seven scorpions
+- うた - 森羅万象 (Sinrabansyo)
+- ガラガラ (Pattern Song)
