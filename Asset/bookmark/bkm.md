@@ -1,7 +1,5 @@
 ## mark
 
-- #news [Kumo](https://gm-kumo.vercel.app)
-- [rssTea](https://scillidan.github.io/rssTea/)
 - [GitHunt](https://kamranahmed.info/githunt)
 - [Indienova - Steam](https://indienova.com/u/game)
 
