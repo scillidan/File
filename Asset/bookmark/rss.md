@@ -1,6 +1,7 @@
 ## mark
 
 - #commit [Awesome Löve](https://github.com/love2d-community/awesome-love2d/commits.atom)
+- #commit [Awesome N8N](https://github.com/restyler/awesome-n8n)
 - #commit [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim/commits.atom)
 - #commit [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins/commits.atom)
 - #github-search-rss [clink](https://scillidan.github.io/github-search-rss/clink.rss)
