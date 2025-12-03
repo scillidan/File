@@ -20,6 +20,13 @@
 
 ## cache
 
+- #no-rss [joshavanier](https://gitlab.com/joshavanier)
+- #no-rss [LOW←TECH MAGAZINE English](https://solar.lowtechmagazine.com)
+- #no-rss [Robert Hodgin](https://roberthodgin.com)
+- #no-rss [Simplifier](https://simplifier.neocities.org)
+- #no-rss [sloum](https://rawtext.club/~sloum)
+- #no-rss [XXIIVV](https://wiki.xxiivv.com)
+- #no-rss [「 」](https://krasjet.com)
 - #design [Behance](https://www.behance.net)
 - #design [Dribbble](https://dribbble.com)
 - #design [Pinterest](https://www.pinterest.com)
