@@ -134,6 +134,7 @@ keypirinha:: Keypirinha Plugin: MyIpExtended                    | `My IP:`
 keypirinha:: Keypirinha Plugin: Recent Items                    | `Open recent`<Tab>
 keypirinha:: Keypirinha Plugin: Svc                             | `Service`
 keypirinha:: Keypirinha Plugin: Symbols                         | `Symbol:`<Tab>
+keypirinha:: Keypirinha QR Code                                 | `QR Code`<Tab>
 keypirinha:: Keypirinha-Command                                 | `> <command>`
 keypirinha:: keypirinha-conemu                                  | `ConEmu: <item>`<Tab>
 keypirinha:: keypirinha-cvt                                     | `Cvt: <item>`<Tab>
@@ -142,6 +143,7 @@ keypirinha:: Keypirinha-PuzzTools                               | `Sort`<Tab>
 keypirinha:: keypirinha-shell                                   | `Shell`<Tab>
 keypirinha:: keypirinha-snippets (Set by user)                  | `snip`<Tab>
 keypirinha:: keypirinha-tldr                                    | `tldr: Search`<Tab>
+keypirinha:: keypirinha-win10-theme-switcher                    | `Win 10 Themes Switcher`<Tab>
 keypirinha:: keypirinha-winsys                                  | `Recycle Bin`
 keypirinha:: Keypirinha-Zealous                                 | `<docset> <type> <str>`
 ## https://lintalist.github.io/#Shortcuts
