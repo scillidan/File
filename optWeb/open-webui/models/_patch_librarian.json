@@ -1,0 +1,9 @@
+[
+    {
+        "base_model_id": "qwen3:14b",
+        "params":
+        {
+            "system": "...And you always answer in Simplified Chinese."
+        },
+    }
+]
