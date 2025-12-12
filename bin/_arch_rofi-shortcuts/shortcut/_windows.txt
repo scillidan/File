@@ -1,9 +1,13 @@
 altbacktick: Switch Between Windows Of The Same Program         | A-`
-autohotkey:: AutoHotkey Keyboard Locker                         | C-S-A-k
+autohotkey: pylanguagetool_en (Set by user)                     | C-A-S-c
+autohotkey: ugrep_cheatsheet (Set by user)                      | C-A-S-h
+autohotkey: ugrep_shortcut (Set by user)                        | C-A-S-?
+autohotkey: mineru_imgs (Set by user)                           | C-A-S-o
+autohotkey:: AutoHotkey Keyboard Locker                         | C-A-S-k
 autohotkey:: ShortScript                                        | Win-c
 autohotkey:: toggle-screen-autohotkey                           | Win-F2
 autohotkey:: GoldenDictOCR: ToggleMouseTakeWord (Set by user)   | C-A-g
-autohotkey:: Vis2 (Set by user)                                 | Win-S-c
+autohotkey:: Vis2 (Set by user)                                 | C-A-c
 ## https://chrisant996.github.io/clink/clink.html#gettingstarted_keybindings
 clink:: clink-fzf: Complete                                     | C-Spc
 clink:: clink-fzf: File                                         | C-t
